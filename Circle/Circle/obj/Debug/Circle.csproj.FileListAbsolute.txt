@@ -1,0 +1,6 @@
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Circle\Circle\obj\Debug\Circle.pdb

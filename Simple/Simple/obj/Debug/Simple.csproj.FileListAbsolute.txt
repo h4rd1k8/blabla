@@ -1,0 +1,7 @@
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\bin\Debug\Simple.exe.config
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\bin\Debug\Simple.exe
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\bin\Debug\Simple.pdb
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\obj\Debug\Simple.csprojResolveAssemblyReference.cache
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\obj\Debug\Simple.csproj.CoreCompileInputs.cache
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\obj\Debug\Simple.exe
+C:\Users\Yerdaulet\Documents\Visual Studio 2017\Projects\Simple\Simple\obj\Debug\Simple.pdb
